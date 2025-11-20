@@ -13,7 +13,7 @@
       <br>
       <br>
       <b>
-        ~ D Samijonov (@diyorbek-xyz) ~
+        ~ Diyorbek (@diyorbek-xyz) ~
       </b>
     </samp>
   </p>
@@ -23,7 +23,7 @@
 
            .             ​  diyorbek@world
           .c.           ┌──────────────────────────────────┐ 
-         .ccc.           ​ OS : Samijonov Diyorbek
+         .ccc.           ​ OS : Samijonov
         .lllll.          ​ Kernel : NERD-DEV 0.33 
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : fish
